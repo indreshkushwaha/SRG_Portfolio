@@ -5,7 +5,7 @@ import { motion } from "framer-motion";
 import { ExternalLink, Code2, ArrowUpRight } from "lucide-react";
 import { Button } from "@/components/ui/Button";
 import { cn } from "@/lib/utils";
-import data from "@/data/indresh.json";
+import data from "@/data/sudhi.json";
 
 export const ProjectsSection = () => {
   // Helper function to clean and format URLs

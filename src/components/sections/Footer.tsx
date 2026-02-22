@@ -3,7 +3,7 @@
 import React from "react";
 import Link from "next/link";
 import { Mail, Linkedin, Github } from "lucide-react";
-import data from "@/data/indresh.json";
+import data from "@/data/sudhi.json";
 
 export const Footer = () => {
   return (

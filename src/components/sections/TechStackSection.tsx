@@ -4,7 +4,7 @@ import React, { useRef } from "react";
 import { motion, useScroll, useTransform } from "framer-motion";
 import { Icon } from "@iconify/react";
 import { CustomTechIcon } from "@/components/CustomTechIcon";
-import data from "@/data/indresh.json";
+import data from "@/data/sudhi.json";
 
 interface TechItem {
   name: string;

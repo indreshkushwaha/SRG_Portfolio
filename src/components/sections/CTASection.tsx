@@ -5,7 +5,7 @@ import { motion } from "framer-motion";
 import Link from "next/link";
 import { Button } from "@/components/ui/Button";
 import { ArrowRight, Mail, MessageCircle } from "lucide-react";
-import data from "@/data/indresh.json";
+import data from "@/data/sudhi.json";
 
 export const CTASection = () => {
   return (

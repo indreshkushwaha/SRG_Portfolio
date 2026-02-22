@@ -3,7 +3,7 @@
 import React from "react";
 import { motion } from "framer-motion";
 import { TrendingUp, Users, Zap, Award, Clock, Shield } from "lucide-react";
-import data from "@/data/Sudhi.json";
+import data from "@/data/indresh.json";
 
 const stats = [
   {

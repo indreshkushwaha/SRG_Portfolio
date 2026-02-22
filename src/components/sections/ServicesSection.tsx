@@ -2,7 +2,7 @@
 
 import React from "react";
 import { PricingCard } from "@/components/ui/PricingCard";
-import data from "@/data/Sudhi.json";
+import data from "@/data/indresh.json";
 
 export const ServicesSection = () => {
   return (

@@ -5,7 +5,7 @@ import { motion } from "framer-motion";
 import { Award, ExternalLink, ArrowRight } from "lucide-react";
 import Link from "next/link";
 import { Button } from "@/components/ui/Button";
-import data from "@/data/Sudhi.json";
+import data from "@/data/indresh.json";
 
 export const CertificationsCompactSection = () => {
   const certifications = data.profile.certifications || [];

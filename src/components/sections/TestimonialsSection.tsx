@@ -3,7 +3,7 @@
 import React from "react";
 import { motion } from "framer-motion";
 import { Quote, Star } from "lucide-react";
-import data from "@/data/Sudhi.json";
+import data from "@/data/indresh.json";
 
 export const TestimonialsSection = () => {
   return (

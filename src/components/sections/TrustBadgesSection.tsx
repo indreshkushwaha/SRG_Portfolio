@@ -3,7 +3,7 @@
 import React from "react";
 import { motion } from "framer-motion";
 import { Award, Clock, CheckCircle2, Star } from "lucide-react";
-import data from "@/data/indresh.json";
+import data from "@/data/Sudhi.json";
 
 export const TrustBadgesSection = () => {
   const badges = [

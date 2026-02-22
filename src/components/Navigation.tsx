@@ -45,7 +45,7 @@ export const Navigation = () => {
               <Code2 className="w-6 h-6 text-white" />
             </div>
             <span className="text-xl font-bold gradient-text hidden sm:block">
-              Indresh
+              Sudhi
             </span>
           </Link>
 
@@ -70,7 +70,7 @@ export const Navigation = () => {
                 )}
               </Link>
             ))}
-            <a href="mailto:contact@indresh.dev">
+            <a href="mailto:contact@Sudhi.dev">
               <Button size="sm" className="ml-4">
                 Get in Touch
               </Button>
@@ -112,7 +112,7 @@ export const Navigation = () => {
                   {item.label}
                 </Link>
               ))}
-              <a href="mailto:contact@indresh.dev" onClick={() => setIsOpen(false)}>
+              <a href="mailto:contact@Sudhi.dev" onClick={() => setIsOpen(false)}>
                 <Button className="w-full mt-4">Get in Touch</Button>
               </a>
             </div>

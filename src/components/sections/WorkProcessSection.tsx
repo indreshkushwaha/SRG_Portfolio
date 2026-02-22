@@ -3,7 +3,7 @@
 import React from "react";
 import { motion } from "framer-motion";
 import { ArrowRight } from "lucide-react";
-import data from "@/data/indresh.json";
+import data from "@/data/Sudhi.json";
 
 export const WorkProcessSection = () => {
   const process = data.profile.workProcess || [];

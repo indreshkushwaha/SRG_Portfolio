@@ -3,7 +3,7 @@
 import React from "react";
 import Link from "next/link";
 import { Mail, Linkedin, Github } from "lucide-react";
-import data from "@/data/indresh.json";
+import data from "@/data/Sudhi.json";
 
 export const Footer = () => {
   return (
@@ -55,9 +55,9 @@ export const Footer = () => {
             <h4 className="font-semibold mb-4 text-foreground">Get in Touch</h4>
             <ul className="space-y-3 text-foreground/60 mb-6">
               <li>
-                <a href="mailto:contact@indresh.dev" className="flex items-center gap-2 hover:text-brand-primary transition-colors">
+                <a href="mailto:contact@Sudhi.dev" className="flex items-center gap-2 hover:text-brand-primary transition-colors">
                   <Mail className="w-4 h-4" />
-                  contact@indresh.dev
+                  contact@Sudhi.dev
                 </a>
               </li>
               <li className="text-sm text-foreground/50">
@@ -70,7 +70,7 @@ export const Footer = () => {
             
             <div className="flex gap-4">
               <a 
-                href="https://www.linkedin.com/in/indreshka/" 
+                href="https://www.linkedin.com/in/sudhi-ranjan-gupta-6a557112b/" 
                 target="_blank" 
                 rel="noopener noreferrer" 
                 className="w-10 h-10 rounded-lg bg-card-bg border border-card-border flex items-center justify-center hover:border-brand-primary hover:text-brand-primary transition-all hover:scale-110"
@@ -79,7 +79,7 @@ export const Footer = () => {
                 <Linkedin className="w-5 h-5" />
               </a>
               <a 
-                href="https://github.com/indreshkushwaha" 
+                href="https://github.com/Slasher190" 
                 target="_blank" 
                 rel="noopener noreferrer" 
                 className="w-10 h-10 rounded-lg bg-card-bg border border-card-border flex items-center justify-center hover:border-brand-primary hover:text-brand-primary transition-all hover:scale-110"

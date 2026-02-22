@@ -3,7 +3,7 @@
 import React from "react";
 import { Code2, Cloud, Database, GitBranch } from "lucide-react";
 import { FeatureCard } from "@/components/ui/FeatureCard";
-import data from "@/data/indresh.json";
+import data from "@/data/Sudhi.json";
 
 export const SkillsSection = () => {
   const skills = [

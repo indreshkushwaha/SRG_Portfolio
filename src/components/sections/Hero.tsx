@@ -4,7 +4,7 @@ import React from "react";
 import { motion } from "framer-motion";
 import { Button } from "@/components/ui/Button";
 import { ArrowRight, Terminal } from "lucide-react";
-import data from "@/data/indresh.json";
+import data from "@/data/Sudhi.json";
 
 export const Hero = () => {
   const scrollToSection = (sectionId: string) => {
@@ -96,7 +96,7 @@ export const Hero = () => {
             transition={{ delay: 0.3 }}
             className="text-6xl md:text-8xl font-bold tracking-tight mb-6 max-w-5xl mx-auto leading-tight"
           >
-            <span className="block mb-2">Indresh Kushwaha</span>
+            <span className="block mb-2">Sudhi Ranjan Gupta</span>
             <span className="gradient-text text-5xl md:text-7xl">
               Full Stack & DevOps
             </span>
@@ -150,7 +150,7 @@ export const Hero = () => {
             transition={{ delay: 0.5 }}
             className="flex flex-col sm:flex-row gap-4 justify-center"
           >
-            <a href="mailto:contact@indresh.dev">
+            <a href="mailto:contact@Sudhi.dev">
               <Button 
                 size="lg" 
                 className="h-14 px-10 text-base group glow-effect"

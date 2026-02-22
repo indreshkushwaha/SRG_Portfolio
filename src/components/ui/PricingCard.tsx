@@ -86,7 +86,7 @@ export const PricingCard = ({
         </ul>
       </div>
 
-      <a href="mailto:contact@indresh.dev">
+      <a href="mailto:contact@Sudhi.dev">
         <Button
           variant={isPopular ? "default" : "outline"}
           className="w-full relative z-10"

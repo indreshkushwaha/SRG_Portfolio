@@ -2,7 +2,7 @@
 
 import React from "react";
 import { motion } from "framer-motion";
-import data from "@/data/indresh.json";
+import data from "@/data/Sudhi.json";
 
 export const WhyHireMeSection = () => {
   const reasons = data.profile.whyHireMe || [];

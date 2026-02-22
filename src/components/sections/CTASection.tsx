@@ -5,7 +5,7 @@ import { motion } from "framer-motion";
 import Link from "next/link";
 import { Button } from "@/components/ui/Button";
 import { ArrowRight, Mail, MessageCircle } from "lucide-react";
-import data from "@/data/indresh.json";
+import data from "@/data/Sudhi.json";
 
 export const CTASection = () => {
   return (
@@ -45,7 +45,7 @@ export const CTASection = () => {
           </p>
           
           <div className="flex flex-col sm:flex-row gap-4 justify-center mb-12">
-            <a href="mailto:contact@indresh.dev">
+            <a href="mailto:contact@Sudhi.dev">
               <Button 
                 size="lg" 
                 className="h-14 px-8 text-base group glow-effect"

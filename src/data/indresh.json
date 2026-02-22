@@ -1,6 +1,6 @@
 {
   "profile": {
-    "name": "Indresh Kushwaha",
+    "name": "Sudhi Ranjan Gupta",
     "role": "Senior Full Stack & DevOps Engineer",
     "experience": "4+ Years",
     "headline": "Transforming Business Ideas into Scalable Digital Products That Drive Revenue",
@@ -390,7 +390,7 @@
       "name": "Sarah J.",
       "role": "Product Manager, Enterprise SaaS",
       "company": "TechCorp Solutions",
-      "content": "Indresh transformed our deployment process from 4-hour manual deployments to fully automated CI/CD pipelines. Our release cycle went from weekly to daily, and we've had zero deployment failures in 6 months. The infrastructure he built handles 10x our previous traffic without breaking a sweat.",
+      "content": "Sudhi transformed our deployment process from 4-hour manual deployments to fully automated CI/CD pipelines. Our release cycle went from weekly to daily, and we've had zero deployment failures in 6 months. The infrastructure he built handles 10x our previous traffic without breaking a sweat.",
       "rating": 5,
       "project": "Learning Library 24"
     },
@@ -398,7 +398,7 @@
       "name": "Michael C.",
       "role": "Founder & CEO",
       "company": "Deal Coach",
-      "content": "Working with Indresh was a game-changer. He didn't just build our platform—he architected a scalable solution that grew from 1K to 50K users in 8 months. His attention to detail in the UI combined with rock-solid backend logic is rare. We've saved $15K monthly on infrastructure costs thanks to his optimization work.",
+      "content": "Working with Sudhi was a game-changer. He didn't just build our platform—he architected a scalable solution that grew from 1K to 50K users in 8 months. His attention to detail in the UI combined with rock-solid backend logic is rare. We've saved $15K monthly on infrastructure costs thanks to his optimization work.",
       "rating": 5,
       "project": "Deal Coach"
     },
@@ -406,7 +406,7 @@
       "name": "Rajesh K.",
       "role": "CTO",
       "company": "Drive lah",
-      "content": "Indresh delivered a production-ready car rental platform in record time. The system handles 100K+ monthly bookings with 99.9% uptime. His expertise in Next.js and cloud architecture saved us months of development time and significantly reduced our AWS costs through intelligent auto-scaling.",
+      "content": "Sudhi delivered a production-ready car rental platform in record time. The system handles 100K+ monthly bookings with 99.9% uptime. His expertise in Next.js and cloud architecture saved us months of development time and significantly reduced our AWS costs through intelligent auto-scaling.",
       "rating": 5,
       "project": "Drive lah"
     }

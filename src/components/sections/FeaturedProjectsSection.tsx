@@ -6,7 +6,7 @@ import Link from "next/link";
 import { ExternalLink, Code2, ArrowRight } from "lucide-react";
 import { Button } from "@/components/ui/Button";
 import { cn } from "@/lib/utils";
-import data from "@/data/indresh.json";
+import data from "@/data/Sudhi.json";
 
 export const FeaturedProjectsSection = () => {
   // Show only first 6 projects as featured

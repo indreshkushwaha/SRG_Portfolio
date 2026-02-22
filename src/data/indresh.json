@@ -1,0 +1,507 @@
+{
+  "profile": {
+    "name": "Indresh Kushwaha",
+    "role": "Senior Full Stack & DevOps Engineer",
+    "experience": "4+ Years",
+    "headline": "Transforming Business Ideas into Scalable Digital Products That Drive Revenue",
+    "about": "Top-rated freelancer delivering enterprise-grade solutions for 25+ global clients. Specialized in building high-performance web applications, optimizing cloud infrastructure, and implementing CI/CD pipelines that reduce deployment time by 80%. Proven track record of scaling applications to handle 100K+ users while maintaining 99.9% uptime.",
+    "valueProposition": "I don't just write code—I architect solutions that solve real business problems, reduce operational costs, and accelerate time-to-market. Every project includes performance optimization, security best practices, and scalable architecture designed for growth.",
+    "stats": {
+      "projectsDelivered": "25+",
+      "clientSatisfaction": "98%",
+      "averageUptime": "99.9%",
+      "deploymentTimeReduction": "80%",
+      "performanceImprovement": "60%",
+      "clientsRetained": "85%"
+    },
+    "availability": {
+      "status": "Available for New Projects",
+      "responseTime": "< 2 hours",
+      "timezone": "IST (UTC+5:30)",
+      "availability": "40+ hours/week"
+    },
+    "platforms": {
+      "upwork": {
+        "rating": "4.9/5",
+        "jobsCompleted": "50+",
+        "topRated": true
+      },
+      "toptal": {
+        "status": "Active",
+        "specialization": "Full Stack & DevOps"
+      },
+      "fiverr": {
+        "level": "Pro",
+        "rating": "5.0/5"
+      }
+    },
+    "workProcess": [
+      {
+        "step": 1,
+        "title": "Discovery & Planning",
+        "description": "Deep dive into your business goals, technical requirements, and success metrics. I create a detailed roadmap with milestones and deliverables.",
+        "duration": "1-2 days",
+        "icon": "🔍"
+      },
+      {
+        "step": 2,
+        "title": "Architecture & Design",
+        "description": "Design scalable architecture, database schema, and API structure. Create wireframes and technical specifications before writing a single line of code.",
+        "duration": "2-5 days",
+        "icon": "🏗️"
+      },
+      {
+        "step": 3,
+        "title": "Development & Testing",
+        "description": "Build features with clean, maintainable code. Continuous testing, code reviews, and regular updates keep you informed every step of the way.",
+        "duration": "Ongoing",
+        "icon": "⚡"
+      },
+      {
+        "step": 4,
+        "title": "Deployment & Optimization",
+        "description": "Deploy to production with zero downtime. Optimize performance, set up monitoring, and ensure everything runs smoothly at scale.",
+        "duration": "1-2 days",
+        "icon": "🚀"
+      },
+      {
+        "step": 5,
+        "title": "Support & Maintenance",
+        "description": "Provide documentation, training, and ongoing support. I ensure your application continues to perform optimally as it grows.",
+        "duration": "Ongoing",
+        "icon": "🛡️"
+      }
+    ],
+    "whyHireMe": [
+      {
+        "title": "Proven Track Record",
+        "description": "25+ successful projects with 98% client satisfaction. Every project delivered on time, within budget, and exceeding expectations.",
+        "icon": "🏆"
+      },
+      {
+        "title": "Business-Focused Development",
+        "description": "I don't just code—I solve business problems. Every solution is designed to drive revenue, reduce costs, and accelerate growth.",
+        "icon": "💼"
+      },
+      {
+        "title": "Fast Response Time",
+        "description": "Average response time under 2 hours. Clear communication, regular updates, and transparency throughout the project lifecycle.",
+        "icon": "⚡"
+      },
+      {
+        "title": "Scalable Architecture",
+        "description": "Build for today, scale for tomorrow. Every application is architected to handle 10x growth without major refactoring.",
+        "icon": "📈"
+      },
+      {
+        "title": "Full-Stack Expertise",
+        "description": "From frontend to backend, DevOps to database optimization—I handle the entire stack. No need to coordinate multiple developers.",
+        "icon": "🔧"
+      },
+      {
+        "title": "Cost-Effective Solutions",
+        "description": "Optimize infrastructure costs by 40% on average. Build efficient systems that save money while delivering superior performance.",
+        "icon": "💰"
+      }
+    ],
+    "certifications": [
+      {
+        "name": "AWS Certified Solutions Architect",
+        "issuer": "Amazon Web Services",
+        "url": "https://www.credly.com/badges/0c2de3e6-f19b-4513-866d-b05d951a1f8d/linked_in_profile",
+        "icon": "☁️",
+        "description": "Validated expertise in designing and deploying scalable, highly available, and fault-tolerant systems on AWS."
+      }
+    ]
+  },
+  "projects": [
+    {
+      "name": "Ember Learning",
+      "url": "emberlearning.org/",
+      "stack": ["Next.js", "React", "Tailwind", "Node.js", "PostgreSQL"],
+      "description": "Comprehensive e-learning platform serving 15K+ students with interactive courses, progress tracking, and certification management. Built with Next.js for optimal performance and SEO, featuring real-time learning analytics, video streaming, and gamified learning experiences. Achieved 85% course completion rate through engaging UI/UX design.",
+      "challenge": "Create engaging learning experience with high course completion rates",
+      "solution": "Interactive UI with progress tracking, gamification, and optimized video delivery",
+      "impact": "15K+ students, 85% completion rate, 40% increase in user engagement",
+      "gradient": "from-blue-400 to-indigo-500"
+    },
+    {
+      "name": "Deap Learning",
+      "url": "deaplearning.com",
+      "stack": ["Next.js", "AI Integration", "Python", "FastAPI", "TensorFlow", "PostgreSQL"],
+      "description": "AI-powered learning platform leveraging deep learning algorithms for personalized education. Integrated Python-based ML models with Next.js frontend, featuring intelligent content recommendations, automated assessment, and adaptive learning paths. Reduced learning time by 30% through AI-driven personalization.",
+      "challenge": "Integrate complex ML models with web application for real-time AI recommendations",
+      "solution": "FastAPI backend for ML inference, optimized model serving, and real-time data processing",
+      "impact": "30% faster learning, 90% recommendation accuracy, scalable AI infrastructure",
+      "gradient": "from-purple-400 to-pink-500"
+    },
+    {
+      "name": "Learning Library 24",
+      "url": "learninglibrary24.com",
+      "stack": ["Next.js", "NestJS", "PostgreSQL", "Docker", "Kubernetes"],
+      "description": "Enterprise learning management system with microservices architecture serving 30K+ users. Migrated from monolithic to microservices, reducing deployment time from 4 hours to 15 minutes. Implemented CI/CD pipelines achieving zero-downtime deployments.",
+      "challenge": "Migrate monolithic application to microservices without service interruption",
+      "solution": "Kubernetes orchestration, API gateway, and gradual migration strategy",
+      "impact": "30K+ users, 15-minute deployments (96% reduction), 99.9% uptime",
+      "gradient": "from-emerald-400 to-teal-500"
+    },
+    {
+      "name": "Drive lah",
+      "url": "https://www.drivelah.sg/",
+      "stack": ["Next.js", "React", "TypeScript", "Node.js", "AWS", "PostgreSQL"],
+      "description": "Singapore's largest peer-to-peer car rental platform processing 100K+ monthly bookings. Built scalable architecture handling peak traffic, integrated payment gateways, and insurance APIs. Achieved 99.9% uptime with auto-scaling infrastructure.",
+      "challenge": "Scale from startup to market leader handling 10x traffic growth",
+      "solution": "Microservices architecture with AWS auto-scaling, optimized database queries, and CDN integration",
+      "impact": "100K+ monthly bookings, 99.9% uptime, 40% reduction in infrastructure costs",
+      "gradient": "from-cyan-400 to-blue-500"
+    },
+    {
+      "name": "Exam Pro",
+      "url": "https://www.exampro.co.uk/",
+      "stack": ["Next.js", "React", "Node.js", "PostgreSQL", "Redis"],
+      "description": "Enterprise exam portal serving 50K+ students across UK. Built secure assessment system with real-time proctoring, automated grading, and certificate generation. Reduced exam processing time by 70% through optimized algorithms.",
+      "challenge": "Handle concurrent exams for thousands of students with zero downtime",
+      "solution": "Redis caching, database optimization, and queue-based processing system",
+      "impact": "50K+ students, 70% faster processing, 100% exam security compliance",
+      "gradient": "from-indigo-500 to-blue-600"
+    },
+    {
+      "name": "MD Air Charter",
+      "url": "https://mdaircharter.com/",
+      "stack": ["Next.js", "React", "TypeScript", "Node.js", "MongoDB"],
+      "description": "Premium air charter booking platform with dynamic search, real-time availability, and instant booking. Integrated complex pricing algorithms and multi-currency payment processing. Reduced booking time from 15 minutes to 2 minutes.",
+      "challenge": "Complex real-time inventory management with dynamic pricing",
+      "solution": "Real-time database updates, WebSocket integration, and intelligent caching strategy",
+      "impact": "2-minute booking process, 95% user satisfaction, 60% increase in conversions",
+      "gradient": "from-sky-400 to-cyan-500"
+    },
+    {
+      "name": "Deal Coach",
+      "url": "https://www.dealcoach.com/",
+      "stack": ["Angular", "Node.js", "Express.js", "MongoDB", "AWS"],
+      "description": "Enterprise deal management platform scaling from 1K to 50K users in 8 months. Built comprehensive CRM with analytics dashboard, automated workflows, and team collaboration features. Reduced deal closure time by 35% through process automation.",
+      "challenge": "Scale rapidly while maintaining performance and data integrity",
+      "solution": "MongoDB sharding, API rate limiting, and optimized Angular lazy loading",
+      "impact": "50K users, 35% faster deal closure, $15K monthly infrastructure savings",
+      "gradient": "from-red-400 to-orange-500"
+    },
+    {
+      "name": "Zone Healthy",
+      "url": "https://www.zonehealthy.com/",
+      "stack": ["Angular 11", "Node.js", "Express.js", "MongoDB", "Stripe", "WebSocket"],
+      "description": "Full-featured food delivery platform serving 20K+ active users with real-time order tracking, multi-restaurant support, and seamless payment processing. Built with Angular 11 for optimal performance, featuring live order status updates, restaurant management dashboard, and automated delivery assignment. Increased order volume by 150% through improved UX.",
+      "challenge": "Handle high-volume orders with real-time tracking and seamless payment flow",
+      "solution": "WebSocket for real-time updates, optimized MongoDB queries, and integrated payment gateway",
+      "impact": "20K+ users, 150% order increase, 95% order accuracy, <2s page load time",
+      "gradient": "from-green-400 to-emerald-500"
+    },
+    {
+      "name": "PostOpCare",
+      "url": "https://postopcare.in/",
+      "stack": ["Next.js", "React", "Node.js", "React Native", "PostgreSQL"],
+      "description": "HIPAA-compliant healthcare platform with web and mobile apps serving 10K+ patients. Built secure patient monitoring system with real-time alerts, medication tracking, and telemedicine integration. Improved patient recovery rates by 25% through proactive care management.",
+      "challenge": "Healthcare compliance (HIPAA) with real-time patient data synchronization",
+      "solution": "End-to-end encryption, secure API architecture, and real-time sync between web and mobile",
+      "impact": "10K+ patients, 25% better recovery rates, 100% HIPAA compliance",
+      "gradient": "from-pink-400 to-rose-500"
+    },
+    {
+      "name": "Canopy Travels",
+      "url": "https://www.canopytravels.com/",
+      "stack": ["Next.js", "React", "TypeScript", "Node.js", "PostgreSQL", "Stripe"],
+      "description": "Multi-property travel rental platform managing 500+ listings with advanced booking system, calendar synchronization, and automated payment processing. Built scalable architecture handling peak booking seasons, integrated with multiple payment gateways, and implemented automated email notifications. Increased booking conversion by 45% through optimized booking flow.",
+      "challenge": "Manage complex multi-property bookings with calendar conflicts and payment processing",
+      "solution": "Optimized database schema, real-time calendar sync, and automated booking workflow",
+      "impact": "500+ properties, 45% conversion increase, 99% booking accuracy, automated payments",
+      "gradient": "from-violet-400 to-purple-500"
+    },
+    {
+      "name": "The Gifts Fairy",
+      "url": "https://thegiftsfairy.com/",
+      "stack": ["Next.js", "React", "E-commerce", "Payment Gateway", "PostgreSQL", "Stripe"],
+      "description": "Premium e-commerce platform specializing in curated gift products with advanced inventory management, personalized recommendations, and seamless checkout experience. Built with Next.js for SEO optimization, featuring product customization, gift wrapping options, and automated order fulfillment. Achieved 60% repeat customer rate through exceptional UX.",
+      "challenge": "Create premium shopping experience with high conversion and customer retention",
+      "solution": "Optimized product pages, personalized recommendations, and streamlined checkout process",
+      "impact": "60% repeat customers, 50% conversion rate, 4.8/5 customer rating, fast checkout",
+      "gradient": "from-yellow-400 to-orange-500"
+    },
+    {
+      "name": "Speedydesigns",
+      "url": "https://speedydesigns.co.uk/",
+      "stack": ["Next.js", "React", "Node.js", "Admin Panel", "PostgreSQL", "File Storage"],
+      "description": "Complete graphic design marketplace connecting clients with designers through streamlined request and approval workflow. Built comprehensive admin dashboard for project management, automated notifications, file versioning system, and integrated payment processing. Reduced project turnaround time by 40% through efficient workflow automation.",
+      "challenge": "Streamline design request workflow with multiple stakeholders and file management",
+      "solution": "Automated workflow system, real-time notifications, and integrated file management",
+      "impact": "40% faster turnaround, 90% client satisfaction, automated project tracking",
+      "gradient": "from-indigo-400 to-purple-500"
+    },
+    {
+      "name": "Real My Demo",
+      "url": "http://www.realmydemo.online/",
+      "stack": ["Next.js", "React", "Node.js", "PostgreSQL", "Redis"],
+      "description": "Enterprise online examination platform serving 25K+ students with secure test delivery, automated proctoring, and comprehensive analytics. Built robust assessment system with question randomization, time management, and instant result generation. Implemented anti-cheating measures and secure exam environment. Achieved 95% exam completion rate.",
+      "challenge": "Ensure exam security and handle concurrent test-taking for thousands of students",
+      "solution": "Secure exam environment, automated proctoring, and optimized database for concurrent access",
+      "impact": "25K+ students, 95% completion rate, 100% exam security, instant results",
+      "gradient": "from-blue-500 to-indigo-600"
+    },
+    {
+      "name": "Sahaj Corporate",
+      "url": "https://www.sahajcorporate.com/",
+      "stack": ["Next.js", "React", "TypeScript", "CMS", "Headless CMS"],
+      "description": "Modern corporate website with headless CMS integration, enabling seamless content management and dynamic page generation. Built with Next.js for optimal SEO and performance, featuring service showcases, team profiles, and integrated contact forms. Achieved 80% improvement in page load speed and 50% increase in organic traffic.",
+      "challenge": "Create fast, SEO-optimized corporate site with easy content management",
+      "solution": "Next.js SSG/SSR, headless CMS integration, and optimized asset delivery",
+      "impact": "80% faster load time, 50% traffic increase, easy content updates, high SEO score",
+      "gradient": "from-slate-400 to-gray-600"
+    },
+    {
+      "name": "Copper Corner",
+      "url": "https://www.coppercorner.com/",
+      "stack": ["Next.js", "React", "Tailwind CSS", "Node.js", "PostgreSQL"],
+      "description": "Professional business website with comprehensive product catalog, service portfolio, and integrated lead management system. Built with modern design principles and Tailwind CSS for rapid development, featuring dynamic product filtering, inquiry forms, and automated email notifications. Increased lead generation by 65% through optimized conversion funnels.",
+      "challenge": "Create conversion-optimized business site with effective lead generation",
+      "solution": "Strategic CTA placement, optimized forms, and automated lead nurturing",
+      "impact": "65% lead increase, 40% conversion rate, automated lead management",
+      "gradient": "from-amber-400 to-orange-600"
+    },
+    {
+      "name": "Origaleasing",
+      "url": "https://www.origaleasing.com/",
+      "stack": ["Next.js", "React", "TypeScript", "Node.js", "PostgreSQL", "Payment Gateway"],
+      "description": "Enterprise equipment leasing platform managing 1000+ assets with automated booking system, contract management, and integrated payment processing. Built scalable rental management system with availability tracking, automated invoicing, and customer portal. Streamlined leasing operations reducing administrative overhead by 50%.",
+      "challenge": "Manage complex equipment inventory with automated booking and contract management",
+      "solution": "Automated availability system, contract generation, and integrated payment processing",
+      "impact": "1000+ assets, 50% admin reduction, automated workflows, seamless payments",
+      "gradient": "from-teal-500 to-cyan-600"
+    },
+    {
+      "name": "Find Greek",
+      "url": "https://www.findgreek.com/",
+      "stack": ["Angular 8", "Node.js", "Express.js", "MongoDB", "Stripe"],
+      "description": "Specialized e-commerce platform for authentic Greek products serving international customers. Built comprehensive online store with multi-currency support, international shipping calculator, and localized payment options. Featured advanced product search, category filtering, and customer reviews. Increased international sales by 120% through optimized checkout experience.",
+      "challenge": "Enable seamless international shopping with multiple currencies and shipping options",
+      "solution": "Multi-currency support, international shipping integration, and localized payment methods",
+      "impact": "120% international sales increase, multi-currency support, seamless checkout",
+      "gradient": "from-blue-600 to-indigo-700"
+    },
+    {
+      "name": "Safe Harbours",
+      "url": "https://www.safeharbours.ca/",
+      "stack": ["Angular 8.x", "Node.js", "Express.js", "MongoDB", "Payment Gateway"],
+      "description": "Comprehensive maritime services platform connecting clients with port services, vessel management, and booking system. Built with Angular 8 for optimal performance, featuring real-time availability, service scheduling, and integrated payment processing. Streamlined maritime operations reducing booking time by 60% and improving service coordination.",
+      "challenge": "Coordinate complex maritime services with multiple stakeholders and scheduling",
+      "solution": "Real-time availability system, automated scheduling, and integrated communication",
+      "impact": "60% faster booking, improved coordination, automated service management",
+      "gradient": "from-blue-500 to-cyan-600"
+    },
+    {
+      "name": "Raj Saree House",
+      "url": "https://rajsareehouse.com/",
+      "stack": ["Next.js", "React", "E-commerce", "Payment Gateway", "PostgreSQL"],
+      "description": "Premium e-commerce platform specializing in traditional Indian sarees and ethnic wear with high-quality product imagery, size guides, and virtual try-on features. Built with Next.js for fast performance, featuring advanced filtering, wishlist functionality, and secure payment processing. Increased online sales by 200% through enhanced product presentation and user experience.",
+      "challenge": "Showcase traditional products effectively online with high conversion rates",
+      "solution": "High-quality imagery, detailed product information, and optimized shopping experience",
+      "impact": "200% sales increase, enhanced product presentation, high conversion rate",
+      "gradient": "from-rose-400 to-pink-600"
+    },
+    {
+      "name": "Mobile Fix Wallington",
+      "url": "https://mobilefixwallington.co.uk/",
+      "stack": ["Next.js", "React", "E-commerce", "Booking System", "PostgreSQL"],
+      "description": "Service booking platform for mobile phone repairs with real-time appointment scheduling, service catalog, and order tracking system. Built intuitive booking interface with calendar integration, automated reminders, and status updates. Streamlined service operations increasing booking efficiency by 70% and improving customer satisfaction.",
+      "challenge": "Simplify service booking process with real-time availability and tracking",
+      "solution": "Calendar integration, automated notifications, and real-time status updates",
+      "impact": "70% booking efficiency, improved customer satisfaction, automated reminders",
+      "gradient": "from-gray-500 to-slate-600"
+    },
+    {
+      "name": "Desi Pakwan",
+      "url": "https://desipakwan.ca/",
+      "stack": ["Next.js", "React", "Node.js", "Payment Gateway", "MongoDB"],
+      "description": "Authentic desi cuisine delivery platform serving Canadian market with comprehensive menu management, real-time order tracking, and integrated delivery system. Built with Next.js for fast performance, featuring dietary filters, spice level customization, and automated order processing. Increased order volume by 180% through optimized user experience and delivery efficiency.",
+      "challenge": "Deliver authentic food experience online with customization and fast delivery",
+      "solution": "Advanced menu customization, real-time tracking, and optimized delivery workflow",
+      "impact": "180% order increase, high customization, fast delivery, customer satisfaction",
+      "gradient": "from-orange-500 to-red-600"
+    },
+    {
+      "name": "Neelam Spice",
+      "url": "https://neelamspice.com/",
+      "stack": ["Next.js", "React", "E-commerce", "Node.js", "PostgreSQL"],
+      "description": "Specialized e-commerce platform for premium spices and food products with detailed product information, recipe suggestions, and subscription options. Built comprehensive online store with inventory management, automated reordering, and customer loyalty program. Increased customer retention by 65% through subscription model and enhanced product education.",
+      "challenge": "Create engaging shopping experience for specialty food products with education",
+      "solution": "Recipe integration, subscription model, and comprehensive product information",
+      "impact": "65% retention increase, subscription model success, enhanced product education",
+      "gradient": "from-yellow-500 to-orange-600"
+    },
+    {
+      "name": "DG Financials",
+      "url": "https://dgfinancials.ca/",
+      "stack": ["Next.js", "React", "TypeScript", "Node.js", "PostgreSQL"],
+      "description": "Financial services platform offering insurance quotes, financial planning tools, and secure client portal. Built with TypeScript for type safety, featuring interactive quote calculators, document management, and encrypted client communications. Increased quote generation by 150% through streamlined user experience and automated calculations.",
+      "challenge": "Build trust in financial services with secure, user-friendly quote system",
+      "solution": "Interactive calculators, secure client portal, and automated quote generation",
+      "impact": "150% quote increase, secure client portal, automated calculations, high trust",
+      "gradient": "from-green-500 to-emerald-600"
+    },
+    {
+      "name": "Ahmedabad Sree Muthappan",
+      "url": "https://www.ahmedabadsreemuthappan.org/",
+      "stack": ["Next.js", "React", "CMS", "Node.js", "PostgreSQL"],
+      "description": "Community organization website for temple services with comprehensive event management, donation system, and information portal. Built with headless CMS for easy content updates, featuring event calendar, online donations, and community announcements. Increased community engagement by 80% through improved communication and event visibility.",
+      "challenge": "Create engaging community platform with event management and donations",
+      "solution": "Event calendar system, integrated donation gateway, and CMS for easy updates",
+      "impact": "80% engagement increase, streamlined donations, improved event visibility",
+      "gradient": "from-amber-500 to-yellow-600"
+    }
+  ],
+  "services": [
+    {
+      "title": "Full Stack Development",
+      "price": "$2,500+",
+      "description": "End-to-end web applications that scale from MVP to enterprise. Built with Next.js, React, and modern backend technologies optimized for performance and user experience.",
+      "features": ["React/Next.js Frontend", "Node/NestJS Backend", "Database Design & Optimization", "API Integration", "Performance Optimization", "SEO & Analytics"],
+      "deliverables": ["Production-ready application", "Responsive design", "API documentation", "Deployment guide"],
+      "timeline": "4-12 weeks",
+      "roi": "Launch 3x faster than traditional development"
+    },
+    {
+      "title": "DevOps & Cloud Infrastructure",
+      "price": "$1,500+",
+      "description": "Automated CI/CD pipelines and scalable cloud architecture that reduce deployment time by 80% and infrastructure costs by 40%. Achieve 99.9% uptime with auto-scaling and monitoring.",
+      "features": ["AWS/GCP Setup & Optimization", "Docker & Kubernetes", "CI/CD Pipelines", "Monitoring & Logging", "Auto-scaling Configuration", "Security Hardening"],
+      "deliverables": ["Infrastructure as Code", "CI/CD pipeline", "Monitoring dashboard", "Cost optimization report"],
+      "timeline": "2-6 weeks",
+      "roi": "Reduce infrastructure costs by 40%"
+    },
+    {
+      "title": "Enterprise Solution",
+      "price": "Custom",
+      "description": "Tailored software solutions for large-scale organizational needs. Microservices architecture, high availability, and enterprise-grade security for mission-critical applications.",
+      "features": ["Microservices Architecture", "High Availability (99.99% uptime)", "Security Audits & Compliance", "24/7 Support", "Performance Optimization", "Scalability Planning"],
+      "deliverables": ["Enterprise architecture", "Security audit report", "Scalability plan", "Ongoing support"],
+      "timeline": "12+ weeks",
+      "roi": "Handle 10x traffic without performance degradation"
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Sarah J.",
+      "role": "Product Manager, Enterprise SaaS",
+      "company": "TechCorp Solutions",
+      "content": "Indresh transformed our deployment process from 4-hour manual deployments to fully automated CI/CD pipelines. Our release cycle went from weekly to daily, and we've had zero deployment failures in 6 months. The infrastructure he built handles 10x our previous traffic without breaking a sweat.",
+      "rating": 5,
+      "project": "Learning Library 24"
+    },
+    {
+      "name": "Michael C.",
+      "role": "Founder & CEO",
+      "company": "Deal Coach",
+      "content": "Working with Indresh was a game-changer. He didn't just build our platform—he architected a scalable solution that grew from 1K to 50K users in 8 months. His attention to detail in the UI combined with rock-solid backend logic is rare. We've saved $15K monthly on infrastructure costs thanks to his optimization work.",
+      "rating": 5,
+      "project": "Deal Coach"
+    },
+    {
+      "name": "Rajesh K.",
+      "role": "CTO",
+      "company": "Drive lah",
+      "content": "Indresh delivered a production-ready car rental platform in record time. The system handles 100K+ monthly bookings with 99.9% uptime. His expertise in Next.js and cloud architecture saved us months of development time and significantly reduced our AWS costs through intelligent auto-scaling.",
+      "rating": 5,
+      "project": "Drive lah"
+    }
+  ],
+  "techStack": {
+    "vectorDatabases": [
+      { "name": "Qdrant", "icon": "🔍" },
+      { "name": "Pinecone", "icon": "🌲" },
+      { "name": "ChromaDB", "icon": "🎨" },
+      { "name": "Milvus", "icon": "⚡" }
+    ],
+    "frontend": [
+      { "name": "HTML5", "icon": "🌐" },
+      { "name": "CSS3", "icon": "🎨" },
+      { "name": "JavaScript", "icon": "📜" },
+      { "name": "TypeScript", "icon": "📘" },
+      { "name": "JavaScript ES6", "icon": "⚡" },
+      { "name": "Next.js", "icon": "▲" },
+      { "name": "Vue.js", "icon": "💚" },
+      { "name": "Nuxt.js", "icon": "💚" },
+      { "name": "Angular", "icon": "🅰️" }
+    ],
+    "styling": [
+      { "name": "Tailwind CSS", "icon": "💨" },
+      { "name": "Bootstrap", "icon": "🎯" },
+      { "name": "Three.js", "icon": "🎮" }
+    ],
+    "backend": [
+      { "name": "Node.js", "icon": "🟢" },
+      { "name": "Express.js", "icon": "⚡" },
+      { "name": "HTTP", "icon": "🌐" },
+      { "name": "Cluster", "icon": "🔗" },
+      { "name": "Multithreading", "icon": "🧵" },
+      { "name": "ORM", "icon": "🗄️" },
+      { "name": "SQLite", "icon": "💾" },
+      { "name": "Graph Databases", "icon": "📊" },
+      { "name": "MongoDB", "icon": "🍃" },
+      { "name": "CouchDB", "icon": "🛋️" },
+      { "name": "MySQL", "icon": "🗄️" },
+      { "name": "PostgreSQL", "icon": "🐘" },
+      { "name": "Redis", "icon": "🔴" },
+      { "name": "Memcache", "icon": "⚡" },
+      { "name": "Kafka", "icon": "📨" },
+      { "name": "RabbitMQ", "icon": "🐰" },
+      { "name": "Distributed Systems", "icon": "🌐" }
+    ],
+    "python": [
+      { "name": "Python", "icon": "🐍" },
+      { "name": "Django", "icon": "🎸" },
+      { "name": "FastAPI", "icon": "⚡" },
+      { "name": "Flask", "icon": "🌶️" },
+      { "name": "RAG", "icon": "🧠" },
+      { "name": "Graph-RAG", "icon": "🕸️" }
+    ],
+    "monitoring": [
+      { "name": "Analytics", "icon": "📊" },
+      { "name": "Datadog", "icon": "🐕" },
+      { "name": "Grafana", "icon": "📈" },
+      { "name": "Prometheus", "icon": "🔥" },
+      { "name": "Kibana", "icon": "🔍" },
+      { "name": "Elasticsearch", "icon": "🔎" },
+      { "name": "Vector Databases", "icon": "🗂️" }
+    ],
+    "cloud": [
+      { "name": "AWS", "icon": "☁️" },
+      { "name": "CI/CD", "icon": "🔄" },
+      { "name": "Kubernetes", "icon": "⚓" },
+      { "name": "Docker", "icon": "🐳" },
+      { "name": "S3", "icon": "🪣" },
+      { "name": "CloudWatch", "icon": "👁️" },
+      { "name": "EKS", "icon": "☸️" },
+      { "name": "ECS", "icon": "📦" },
+      { "name": "Auto Scaling", "icon": "📈" },
+      { "name": "Multi Availability", "icon": "🌍" },
+      { "name": "Fault Tolerance", "icon": "🛡️" },
+      { "name": "Scalable Systems", "icon": "⚡" }
+    ],
+    "devops": [
+      { "name": "Terraform", "icon": "🏗️" },
+      { "name": "Linux", "icon": "🐧" },
+      { "name": "Debian", "icon": "🔴" },
+      { "name": "VPS", "icon": "🖥️" },
+      { "name": "GitHub Actions", "icon": "⚙️" },
+      { "name": "Jenkins", "icon": "🤖" },
+      { "name": "Solution Architect", "icon": "🏛️" },
+      { "name": "Ansible", "icon": "🔧" },
+      { "name": "GitHub", "icon": "🐙" },
+      { "name": "Jira", "icon": "🎯" }
+    ],
+    "tools": [
+      { "name": "SonarQube", "icon": "🔍" },
+      { "name": "SonarLint", "icon": "🔎" },
+      { "name": "Nginx", "icon": "🌐" },
+      { "name": "Serverless Architect", "icon": "⚡" },
+      { "name": "Lambda Function", "icon": "λ" }
+    ]
+  }
+}

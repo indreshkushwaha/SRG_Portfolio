@@ -54,12 +54,12 @@ export const Footer = () => {
           <div>
             <h4 className="font-semibold mb-4 text-foreground">Get in Touch</h4>
             <ul className="space-y-3 text-foreground/60 mb-6">
-              <li>
+              {/* <li>
                 <a href="mailto:contact@Sudhi.dev" className="flex items-center gap-2 hover:text-brand-primary transition-colors">
                   <Mail className="w-4 h-4" />
                   contact@Sudhi.dev
                 </a>
-              </li>
+              </li> */}
               <li className="text-sm text-foreground/50">
                 Response time: {data.profile.availability?.responseTime || "< 2 hours"}
               </li>
@@ -69,7 +69,7 @@ export const Footer = () => {
             </ul>
             
             <div className="flex gap-4">
-              <a 
+              {/* <a 
                 href="https://www.linkedin.com/in/sudhi-ranjan-gupta-6a557112b/" 
                 target="_blank" 
                 rel="noopener noreferrer" 
@@ -77,7 +77,7 @@ export const Footer = () => {
                 aria-label="LinkedIn Profile"
               >
                 <Linkedin className="w-5 h-5" />
-              </a>
+              </a> */}
               <a 
                 href="https://github.com/Slasher190" 
                 target="_blank" 
